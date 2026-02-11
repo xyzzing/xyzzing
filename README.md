@@ -1,4 +1,3 @@
-Sustainability Risk Intelligence & Impact Frameworks
 
 # About
 Sustainability strategist and systems architect building open-source tools for enterprise ESG transformation across environmental, social, and governance dimensions. Focused on moving beyond compliance-driven reporting toward value-creating, restorative business practices.
