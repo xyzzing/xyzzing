@@ -21,3 +21,26 @@ where its reasoning budget went.
   task-completion benchmarking.
 - **Minder**: agent-governance tooling, evals first.
 - Issues and PRs raised on PyTorch and AMD LLVM.
+
+
+## The flight-test program
+
+The mission above is one loop, several birds - the names are falconry: the
+house keeps the birds, the falconer trains them, the tunnel measures the
+flight. The public pieces:
+
+- [minder](https://github.com/xyzzing/minder) - the tower: governed agent
+  runtime (capture, memory, policy, operator console). Install and try-it
+  in its README.
+- [cupola](https://github.com/xyzzing/cupola) - the furnace + watch-dome:
+  certify-before-serve and work backpressure above the engine.
+- [windroos](https://github.com/xyzzing/windroos) - the rose: the repo
+  agent, capturing lessons and charts from every run.
+- [sinter](https://github.com/xyzzing/sinter) - the engine supervisor:
+  deterministic llama-server lifecycle, admission checks, verifiable state
+  on AMD Radeon.
+- [Strata](https://github.com/xyzzing/Strata) - the inference engine fork
+  this stack is measured on.
+
+Private for now: the mews (contract-drift tripwires, full-loop shakedown,
+program map), valkenier (training), windtunnel (measurement rooms).
