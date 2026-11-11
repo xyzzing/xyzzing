@@ -32,6 +32,8 @@ flight. The public pieces:
 - [minder](https://github.com/xyzzing/minder) - the tower: governed agent
   runtime (capture, memory, policy, operator console). Install and try-it
   in its README.
+- [mews](https://github.com/xyzzing/mews) - the house: contract-drift
+  tripwires, full-loop shakedown, program map.
 - [cupola](https://github.com/xyzzing/cupola) - the furnace + watch-dome:
   certify-before-serve and work backpressure above the engine.
 - [windroos](https://github.com/xyzzing/windroos) - the rose: the repo
@@ -42,5 +44,5 @@ flight. The public pieces:
 - [Strata](https://github.com/xyzzing/Strata) - the inference engine fork
   this stack is measured on.
 
-Private for now: the mews (contract-drift tripwires, full-loop shakedown,
-program map), valkenier (training), windtunnel (measurement rooms).
+Private for now: valkenier (the falconer - training), windtunnel (the
+tunnel - measurement rooms).
